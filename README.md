@@ -1,1 +1,1 @@
-# Data-Structure-and-Algorithms
+# <p align = "Center">Data Structure and Algorithms</p>
